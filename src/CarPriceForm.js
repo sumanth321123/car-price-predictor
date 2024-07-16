@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './CarPriceForm.css'; 
-const w0 = 7.17; 
+const w0 = 11.398802102935838; 
 const w = [
    1.91027143e-03,  1.15519392e-01, -8.82646625e-03,  8.45692211e-03,
     -5.31283218e-05, -9.87743814e-02, -1.18312384e+00, -1.34924951e+00,
