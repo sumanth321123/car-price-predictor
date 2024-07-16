@@ -1,0 +1,35 @@
+.centered-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 92vh;
+}
+  .centered-form form {
+    width: 450px; 
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .centered-form form input,
+  .centered-form form button {
+    display: block;
+    width: 95%;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .centered-form form button {
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .centered-form form button:hover {
+    background-color: #0056b3;
+  }
+  
